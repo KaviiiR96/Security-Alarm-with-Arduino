@@ -1,7 +1,3 @@
-// WELCOME TO BACKBENCHERS
-// PLEASE SHARE AND SUBSCRIBE TO MY CHANNEL
-// THANK YOU
-
 
 // defines pins numbers
 const int trigPin = 9;
