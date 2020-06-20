@@ -1,0 +1,2 @@
+# to change language of repo from c++ to Arduino
+    *.js linguist-language=Arduino C
